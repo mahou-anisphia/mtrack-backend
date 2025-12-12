@@ -1,4 +1,4 @@
-_From the product series "Magicodelogy"_
+_From the discovery & learning series "Magicodelogy"_
 
 > **Note:** This project is **archived**. It is the backend component of the **first product I ever built at Viettel**, representing my first deep dive into Python and TCP socket programming.
 
